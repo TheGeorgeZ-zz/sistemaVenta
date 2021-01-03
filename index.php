@@ -26,3 +26,5 @@
 	$plantilla -> ctrPlantilla();
 
 ?>
+
+<h1>Hola mundo</h1>
